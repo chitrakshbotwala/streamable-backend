@@ -1,6 +1,6 @@
-# Moopa Backend
+# Streamable Backend
 
-This repository is for the latest [moopa](https://moopa.live) site.
+This repository is for the latest [moopa](https://streamableanime.me) site.
 
 ## Build & Development
 
