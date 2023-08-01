@@ -7,7 +7,7 @@ This repository is for the latest [streamable](https://streamableanime.me) site.
 Clone this repo :
 
 ```
-git clone https://github.com/Ani-Moopa/moopa-backend.git
+git clone https://github.com/chitrakshbotwala/streamable-backend
 ```
 
 add to `.env` root folder :
